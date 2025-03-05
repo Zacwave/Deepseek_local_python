@@ -1,0 +1,12 @@
+Transient Luminous Events (TLEs) are brief, high-altitude phenomena that occur in Earth's atmosphere above thunderstorms. These events are associated with lightning and are not typically visible from the ground, as they occur far above thunderstorm clouds. TLEs are short-lived but intense bursts of light and can be divided into several types, including:
+
+1.Sprites – Large, red-orange flashes that shoot upward from the tops of thunderstorms, extending into the mesosphere. They are caused by lightning discharges.
+
+2.Blue Jets – Blue-colored streaks that shoot upward from thunderstorm tops into the stratosphere. They are thought to be related to the electrical activity of lightning.
+
+3.Elves – Disk-shaped, rapidly expanding rings of light in the ionosphere that occur in response to intense lightning strikes.
+
+4.Gigantic Jets – Extremely large lightning-like discharges that extend from the thunderstorm to the ionosphere, similar to blue jets, but much more massive.
+
+These events are a fascinating area of atmospheric science, often captured by high-altitude cameras or research satellites. TLEs are still not fully understood, as their mechanisms and the way they relate to lightning processes are still under study.
+
